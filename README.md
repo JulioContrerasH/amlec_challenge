@@ -1,23 +1,13 @@
----
-license: apache-2.0
-language:
-- en
-pipeline_tag: emulation
-tags:
-- emulation
-- atmosphere radiative transfer models
-- hyperspectral
-- AMLEC
-- ELIAS
-pretty_name: Atmospheric Radiative Transfer Emulation Challenge
-title: AMLEC Challenge
-emoji: 🤖
-colorFrom: gray
-colorTo: green
-sdk: static
-sdk_version: "latest"
-pinned: false
----
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Language](https://img.shields.io/badge/Language-Python_|_English-blue)
+![Task](https://img.shields.io/badge/Task-Emulation-green)
+![Domain](https://img.shields.io/badge/Domain-Atmospheric_Radiative_Transfer-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+<br/>
+<br/>
 
 Last update: 30-06-2025
 
