@@ -9,11 +9,10 @@
 <br/>
 <br/>
 
-Last update: 30-06-2025
 
 <div align="center">
   <img src="https://elias-ai.eu/wp-content/uploads/2023/09/elias_logo_big-1.png" alt="elias_logo" style="width:30%; margin-right: 50px;">
-  <img src="https://elias-ai.eu/wp-content/uploads/2024/01/EN_FundedbytheEU_RGB_WHITE-Outline-1.png" alt="eu_logo" style="width:30%;">
+  <img src="https://elias-ai.eu/wp-content/uploads/2024/01/EN_FundedbytheEU_RGB_WHITE-Outline-1.png" alt="eu_logo" margin-left: 50px; style="width:50%;">
 </div>
 
 # **Atmospheric Radiative Transfer Emulation Challenge (AMLEC)**
