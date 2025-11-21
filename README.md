@@ -96,21 +96,23 @@ Xtest = pd.read_csv('refInterp.csv').to_numpy()
 ```
 
 
-Data is available in the [repository files](https://www.google.com/search?q=https://huggingface.co/datasets/isp-uv-es/rtm_emulation/tree/main).
+Data is available in the [repository files](https://huggingface.co/datasets/isp-uv-es/rtm_emulation).
 
 ## **Evaluation methodology**
 
 ### **Prediction accuracy**
 
-  - **Scenario A:** Mean Relative Error (MRE) of retrieved surface reflectance.
-  - **Scenario B:** MRE of predicted TOA radiance.
-  - **MRE\<sub\>λ\</sub\>** excludes deep water vapor absorption bands.
+* **Scenario A:** Mean Relative Error (MRE) of retrieved surface reflectance.
+* **Scenario B:** MRE of predicted TOA radiance.
+* **$MRE_\lambda$** excludes deep water vapor absorption bands.
 
-### **Final score**
+### **Final Score**
 
 The final ranking is a weighted average of the ranks in the four sub-tracks:
-$$ Score = 0.325 \cdot Rank_{A1} + 0.175 \cdot Rank_{A2} + 0.325 \cdot Rank_{B1} + 0.175 \cdot Rank_{B2} $$
 
+$$
+Score = 0.325 \cdot Rank_{A1} + 0.175 \cdot Rank_{A2} + 0.325 \cdot Rank_{B1} + 0.175 \cdot Rank_{B2}
+$$
 -----
 
 ## **Reproducibility**
