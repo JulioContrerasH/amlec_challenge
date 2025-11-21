@@ -15,6 +15,9 @@
   <img src="https://elias-ai.eu/wp-content/uploads/2024/01/EN_FundedbytheEU_RGB_WHITE-Outline-1.png" alt="eu_logo" margin-left: 50px; style="width:50%;">
 </div>
 
+</div>
+
+
 # **Atmospheric Radiative Transfer Emulation Challenge (AMLEC)**
 
 > **Reference paper:** *Evaluating Machine Learning Emulators for Atmospheric Radiative Transfer: The AMLEC Challenge* 
