@@ -110,9 +110,9 @@ Data is available in the [repository files](https://huggingface.co/datasets/isp-
 
 The final ranking is a weighted average of the ranks in the four sub-tracks:
 
-$$
+$
 Score = 0.325 \cdot Rank_{A1} + 0.175 \cdot Rank_{A2} + 0.325 \cdot Rank_{B1} + 0.175 \cdot Rank_{B2}
-$$
+$
 -----
 
 ## **Reproducibility**
